@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sandeesaripalli
-- 👀 I’m interested in ML, FrontEnd(Angular, React, React-Native), AWS
+- 👀 I’m interested in ML, FrontEnd(Angular, React, React-Native, Vanila JS), Python, NodeJS, AWS
 - 🌱 I’m currently learning ML
-- 
 - 📫 How to reach me sandeep.krishna@zoho.com
 
 <!---
